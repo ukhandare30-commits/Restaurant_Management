@@ -1,0 +1,20 @@
+Fresh Lime Soda|Drink|100
+Cold Coffee|Drink|150
+Mango Shake|Drink|160
+Coca Cola|Drink|80
+Masala Chaas|Drink|90
+Chocolate Shake|Drink|170
+Oreo Shake|Drink|190
+Strawberry Shake|Drink|160
+Virgin Mojito|Drink|140
+Iced Tea|Drink|120
+Lemonade|Drink|100
+Watermelon Juice|Drink|130
+Hot Coffee|Drink|90
+Hot Chocolate|Drink|150
+Pineapple Juice|Drink|140
+Orange Juice|Drink|130
+Blue Lagoon|Drink|160
+Vanilla Shake|Drink|150
+Green Apple Mojito|Drink|170
+Cold Chocolate|Drink|160

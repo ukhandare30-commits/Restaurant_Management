@@ -1,0 +1,20 @@
+Butter Naan|Bread|60
+Garlic Naan|Bread|80
+Tandoori Roti|Bread|40
+Cheese Naan|Bread|100
+Lachha Paratha|Bread|90
+Missi Roti|Bread|70
+Plain Naan|Bread|50
+Butter Roti|Bread|45
+Stuffed Kulcha|Bread|110
+Aloo Paratha|Bread|100
+Paneer Paratha|Bread|130
+Roomali Roti|Bread|60
+Onion Kulcha|Bread|100
+Amritsari Kulcha|Bread|120
+Pudina Paratha|Bread|90
+Methi Paratha|Bread|85
+Cheese Garlic Naan|Bread|120
+Tandoori Paratha|Bread|100
+Peshawari Naan|Bread|130
+Ajwain Roti|Bread|55

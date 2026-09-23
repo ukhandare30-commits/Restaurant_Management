@@ -1,0 +1,20 @@
+Gulab Jamun|Dessert|100
+Brownie|Dessert|150
+Ice Cream|Dessert|120
+Cheesecake|Dessert|180
+Chocolate Mousse|Dessert|160
+Fruit Custard|Dessert|130
+Chocolate Lava Cake|Dessert|190
+Rasmalai|Dessert|140
+Kulfi|Dessert|110
+Apple Pie|Dessert|170
+Caramel Pudding|Dessert|150
+Sizzling Brownie|Dessert|220
+Rasgulla|Dessert|120
+Jalebi|Dessert|100
+Tiramisu|Dessert|200
+Red Velvet Cake|Dessert|190
+Chocolate Donut|Dessert|130
+Kesar Pista Kulfi|Dessert|140
+Shahi Tukda|Dessert|160
+Mango Cheesecake|Dessert|200
